@@ -9,3 +9,4 @@ transformers
 SentencePiece
 sentencepiece
 rouge
+nltk
