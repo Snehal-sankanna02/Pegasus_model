@@ -10,3 +10,4 @@ SentencePiece
 sentencepiece
 rouge
 nltk
+torch
